@@ -6,7 +6,8 @@ This project demonstrates frontend fundamentals including layout, navigation, an
 
 ##  Live Demo
 
-(https://anushavv3.github.io/static-restaurant-site/)
+  
+[savory table restaurant](https://anushavv3.github.io/static-restaurant-site/)
 
 ## 🎯 Features
 
