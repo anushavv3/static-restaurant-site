@@ -6,8 +6,7 @@ This project demonstrates frontend fundamentals including layout, navigation, an
 
 ##  Live Demo
 
-View the live website here:  
-[https://yourusername.github.io](https://yourusername.github.io)
+(https://anushavv3.github.io/static-restaurant-site/)
 
 ## 🎯 Features
 
